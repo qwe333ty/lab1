@@ -1,0 +1,17 @@
+﻿  SDL_demo.cpp
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(47): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(48): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(49): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(54): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(55): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(56): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(61): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(62): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(63): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(68): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(69): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(70): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(76): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+g:\аокг\лабораторная работа №1\sdf\sdl_demo\sdl_demo.cpp(77): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  SDL_demo.vcxproj -> G:\АОКГ\Лабораторная работа №1\sdf\Debug\labexample.exe
+  SDL_demo.vcxproj -> G:\АОКГ\Лабораторная работа №1\sdf\Debug\labexample.pdb (Full PDB)
